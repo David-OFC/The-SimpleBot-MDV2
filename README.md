@@ -3,7 +3,7 @@
 [`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=738341999&ref=master&geo=UsEast)
 ***
 
-## 🌟 DESARROLLADORES
+## 🌟 DESARROLLADOR
 [![The-DiosBot-MD](https://github.com/The-DiosBot-MD.png?size=100)](https://github.com/The-DiosBot-MD) 
 
 ### ☄️ AGRADECIMIENTOS
