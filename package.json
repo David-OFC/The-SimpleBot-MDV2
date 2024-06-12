@@ -1,7 +1,7 @@
 {
-"name": "YoshikoBot-MD",
+"name": "The-SimpleBot-MDV2",
 "version": "1.0.7", 
-"description": "La Mejor Bot De WhatsApp",
+"description": "Bot De WhatsApp",
 "main": "index.js",
 "type": "module",
 
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
 
-"homepage": "https://github.com/Diego-YL-177/YoshikoBot-MD",
+"homepage": "https://github.com/David-OFC/The-SimpleBot-MDV2",
 "author": {
-"name": "Dɪᴇɢᴏ.Oғᴄ" },
+"name": "David-OFC" },
 
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Diego-YL-177/YoshikoBot-MD.git" },
+"url": "git+https://github.com/David-OFC/The-SimpleBot-MDV2.git" },
 
 "bugs": {
-"url": "https://github.com/Diego-YL-177/YoshikoBot-MD-/issues" },
+"url": "https://github.com/David-OFC/The-SimpleBot-MDV2-/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
   "@adiwajshing/keyed-db": "^0.2.4",
