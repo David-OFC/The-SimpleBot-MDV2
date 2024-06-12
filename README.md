@@ -4,9 +4,7 @@
 ***
 
 ## 🌟 DESARROLLADORES
-<a href="https://github.com/The-DiosBot-MD/The-SimpleBot-MDV2/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-DiosBot-MD/The-SimpleBot-MDV2" /> 
-</a>
+[![The-DiosBot-MD](https://github.com/The-DiosBot-MD.png?size=100)](https://github.com/The-DiosBot-MD) 
 
 ### ☄️ AGRADECIMIENTOS
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
